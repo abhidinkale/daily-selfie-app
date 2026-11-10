@@ -1,0 +1,10 @@
+{
+  "name": "daily-selfie-app",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "18.3.0",
+    "react-native": "0.74.4",
+    "react-native-reanimated": "^3.9.0"
+  }
+}
